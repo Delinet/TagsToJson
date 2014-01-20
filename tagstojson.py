@@ -9,7 +9,7 @@ import json
 from bs4 import BeautifulSoup
 
 def tagstojson(url,tag):
-    response = urllib2.urlopen(url,tag)
+    response = urllib2.urlopen(url)
     html_doc = response.read()
     response.close()
     doc_by_soup = BeautifulSoup(html_doc)
