@@ -1,5 +1,4 @@
 #tagstojson: A Python module to retrieve all the links and the text about specified tag
-#Develop by: Antonio Candela AKA Delinet
 #Author: Antonio Candela
 #AKA: Delinet
 #Twitter: @Delinet
