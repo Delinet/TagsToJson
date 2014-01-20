@@ -1,6 +1,4 @@
-#tagstojson: a pythone module to get an html page
-#and convert it in s json response, select what kind of
-#tag You want
+#tagstojson: A Python module to retrieve all the links and the text about specified tag
 #Develop by: Antonio Candela AKA Delinet
 #Author: Antonio Candela
 #AKA: Delinet
